@@ -3,7 +3,7 @@ HTML5 Multiple File Drag and Drop Upload
 
 # Demo
 
-[http://codepen.io/RobertHegeraad/pen/wtlHF]
+http://jsfiddle.net/RobertHegeraad/up2onzsL/
 
 #### The HTML
 
